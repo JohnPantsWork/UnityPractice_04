@@ -30,7 +30,6 @@ public class CoordinateLabel : MonoBehaviour
 
         coordinates.x = Mathf.RoundToInt(transform.position.x / UnityEditor.EditorSnapSettings.move.x);
         coordinates.y = Mathf.RoundToInt(transform.position.z / UnityEditor.EditorSnapSettings.move.z);
-        // Debug.Log(coordinates.x + "," + coordinates.y);
 
         label.text = coordinates.x + "," + coordinates.y;
     }
