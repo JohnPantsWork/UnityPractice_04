@@ -1,4 +1,4 @@
-# UnityPractice_04
+# UnityPractice_04_towerdefence
 Udemy course practice project.
 
 這是一款塔防遊戲，透過建設防禦塔，阻止敵人抵達我方城堡。
